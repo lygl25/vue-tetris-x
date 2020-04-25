@@ -1,0 +1,138 @@
+{
+  "lan": ["cn", "en", "fr", "fa"],
+  "default": "cn",
+  "data": {
+    "title": {
+      "cn": "俄罗斯方块",
+      "en": "T E T R I S",
+      "fr": "T E T R I S",
+      "fa": "خانه سازی"
+    },
+    "urlinfo":{
+      "cn": "手机或电脑浏览器直接输入 jikeyt.com 无需安装即可体验",
+      "en": "Enter jikeyt.com on a mobile phone or computer browser",
+      "fr": "Téléphone portable / ordinateur URL ouvert jikeyt.com",
+      "fa": "برای تجربه ، jikeyt.com را مستقیماً در تلفن همراه یا مرورگر رایانه وارد کنید"
+    },
+    "github": {
+      "cn": "GitHub",
+      "en": "GitHub",
+      "fr": "GitHub",
+      "fa": "گیت‌هاب"
+    },
+    "linkTitle": {
+      "cn": "查看源代码",
+      "en": "View data source",
+      "fr": "Afficher la source des données",
+      "fa": "مشاهده سورس پروژه"
+    },
+    "QRCode":{
+      "cn": "二维码",
+      "en": "QR code",
+      "fr": "QR code",
+      "fa": "کیوآر کد"
+    },
+    "QRNotice": {
+      "cn": "扫一扫用手机玩",
+      "en": "Scan QR code to play with a mobile phone",
+      "fr": "Numérisez le code QR pour jouer avec un téléphone mobile",
+      "fa": "اسکن کیوآر کد برای بازی در تلفن همراه"
+    },
+    "titleCenter": {
+      "cn": "俄罗斯方块<br />TETRIS",
+      "en": "TETRIS",
+      "fr": "TETRIS",
+      "fa": "خانه سازی"
+    },
+    "point": {
+      "cn": "得分",
+      "en": "Point",
+      "fr": "Score",
+      "fa": "امتیاز"
+    },
+    "highestScore": {
+      "cn": "最高分",
+      "en": "Max",
+      "fr": "Max",
+      "fa": "حداکثر"
+    },
+    "lastRound": {
+      "cn": "上轮得分",
+      "en": "Last Round",
+      "fr": "Dernier Tour",
+      "fa": "آخرین دور"
+    },
+    "cleans": {
+      "cn": "消除行",
+      "en": "Cleans",
+      "fr": "Lignes",
+      "fa": "پاک کرد"
+    },
+    "level": {
+      "cn": "速度",
+      "en": "SPEED",
+      "fr": "VITESSE",
+      "fa": "سرعت"
+      },
+    "startLine": {
+      "cn": "开始层",
+      "en": "LEVEL",
+      "fr": "Difficulté",
+      "fa": "سطح"
+    },
+    "next": {
+      "cn": "下一个",
+      "en": "Next",
+      "fr": "Prochain",
+      "fa": "بعدی"
+    },
+    "pause": {
+      "cn": "暂停",
+      "en": "Pause",
+      "fr": "Pause",
+      "fa": "مکث"
+    },
+    "sound": {
+      "cn": "音效",
+      "en": "Sound",
+      "fr": "Sonore",
+      "fa": "صدا"
+    },
+    "reset": {
+      "cn": "重玩",
+      "en": "Reset",
+      "fr": "Réinitialiser",
+      "fa": "ریست"
+    },
+    "rotation": {
+      "cn": "旋转",
+      "en": "Rotation",
+      "fr": "Rotation",
+      "fa": "چرخش"
+    },
+    "left": {
+      "cn": "左移",
+      "en": "Left",
+      "fr": "Gauche",
+      "fa": "چپ"
+    },
+    "right": {
+      "cn": "右移",
+      "en": "Right",
+      "fr": "Droite",
+      "fa": "راست"
+    },
+    "down": {
+      "cn": "下移",
+      "en": "Down",
+      "fr": "Bas",
+      "fa": "پایین"
+    },
+    "drop": {
+      "cn": "开始游戏/掉落",
+      "en": "Drop",
+      "fr": "Tomber",
+      "fa": "سقوط"
+    }
+  }
+}
