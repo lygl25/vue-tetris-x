@@ -31,6 +31,7 @@ const down = o => {
 
 const up = o => {
   // 键盘、手指松开
+
   clearTimeout(eventName[o.key])
   eventName[o.key] = null
   if (!o.callback) {

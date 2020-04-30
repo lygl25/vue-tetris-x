@@ -104,6 +104,12 @@
       "fr": "Réinitialiser",
       "fa": "ریست"
     },
+    "ranking": {
+      "cn": "我的排行",
+      "en": "ranking",
+      "fr": "Classement",
+      "fa": "رتبه بندی"
+    },
     "rotation": {
       "cn": "旋转",
       "en": "Rotation",

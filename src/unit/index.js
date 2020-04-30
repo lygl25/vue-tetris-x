@@ -59,7 +59,7 @@ const unit = {
   },
   isOver(matrix) {
     // 游戏是否结束, 第一行落下方块为依据
-  
+
     return matrix[0].some(n => !!n)
   },
   subscribeRecord(store) {

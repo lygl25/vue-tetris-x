@@ -1,3 +1,6 @@
+/*
+包含N个mutation的type名称常量
+ */
 import { getNextType } from '../unit'
 import Block from '../unit/block'
 const mutations = {
@@ -72,6 +75,10 @@ const mutations = {
   },
   key_pause(state, data) {
     state.keyboard['pause'] = data
-  }
+  },
+  key_ranking(state, data) {
+    state.keyboard['ranking'] = data
+  },
+
 }
 export default mutations

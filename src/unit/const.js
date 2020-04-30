@@ -1,5 +1,6 @@
 import i18nJSON from '../i18n.json'
 
+
 export const blockShape = {
   I: [[1, 1, 1, 1]],
   L: [[0, 0, 1], [1, 1, 1]],
@@ -60,6 +61,7 @@ export const lastRecord = (() => {
     }
     return false
   }
+
   return data
 })()
 

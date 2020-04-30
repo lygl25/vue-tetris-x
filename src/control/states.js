@@ -9,6 +9,7 @@ import {
 } from '../unit/const'
 import { music } from '../unit/music'
 
+
 const getStartMatrix = startLines => {
   // 生成startLines
   const getLine = (min, max) => {
@@ -66,6 +67,7 @@ const states = {
     store.commit('moveBlock', { type: state.next })
     store.commit('nextBlock', '')
     states.auto()
+
   },
 
   // 自动下落
@@ -127,7 +129,10 @@ const states = {
       if (music.gameover) {
         music.gameover()
       }
+      //游戏结束
       states.overStart()
+
+
       return
     }
     setTimeout(() => {
@@ -193,6 +198,7 @@ const states = {
     store.commit('lock', true)
     store.commit('reset', true)
     store.commit('pause', false)
+
   },
 
   // 游戏结束动画完成

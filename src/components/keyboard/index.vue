@@ -79,6 +79,15 @@
           :active="keyboard['pause']"
           ref="dom_p"
         />
+        <vbutton
+          color="green"
+          size="s2"
+          :top="0"
+          :left="326"
+          :label="ranking"
+          :active="keyboard['ranking']"
+          ref="dom_k"
+        />
       </div>
 </template>
 <style lang="less">

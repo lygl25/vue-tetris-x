@@ -1,3 +1,6 @@
+/*
+Vuex最核心的管理 模块
+*/
 import Vue from 'vue'
 import Vuex from 'vuex'
 import { getNextType } from '../unit'
@@ -124,7 +127,8 @@ const state = {
     rotate: false,
     reset: false,
     music: false,
-    pause: false
+    pause: false,
+    ranking:false
   },
 
   lock: lockInitState,

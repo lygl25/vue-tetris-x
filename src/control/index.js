@@ -9,7 +9,8 @@ const keyboard = {
   32: 'space',
   83: 's',
   82: 'r',
-  80: 'p'
+  80: 'p',
+  75: 'k'
 }
 
 let keydownActive

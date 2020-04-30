@@ -19,8 +19,10 @@ export default {
   },
   computed: {
     keyboard() {
+
       return this.$store.state.keyboard
     },
+    ranking: () => `${i18n.ranking[lan]}(K)`,
     rotation: () => i18n.rotation[lan],
     labelLeft: () => i18n.left[lan],
     labelRight: () => i18n.right[lan],
